@@ -290,3 +290,14 @@ second-page */
     width: 100%;
   }
 }
+
+.attribution {
+  font-size: 12px;
+  text-align: center;
+  margin-top: 5rem;
+  position: fixed;
+  bottom: 0;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
